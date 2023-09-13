@@ -1,0 +1,81 @@
+ls : Liste les fichiers et les répertoires dans le répertoire courant.
+
+cd : Change le répertoire de travail courant.
+
+pwd : Affiche le répertoire de travail actuel (chemin absolu).
+
+touch : Crée un nouveau fichier vide.
+
+mkdir : Crée un nouveau répertoire.
+
+rm : Supprime des fichiers ou des répertoires. Utilisez avec précaution !
+
+cp : Copie des fichiers ou des répertoires.
+
+mv : Déplace ou renomme des fichiers ou des répertoires.
+
+cat : Affiche le contenu d'un fichier.
+
+less : Permet de parcourir et afficher le contenu d'un fichier page par page.
+
+head : Affiche les premières lignes d'un fichier.
+
+tail : Affiche les dernières lignes d'un fichier.
+
+grep : Recherche un motif dans un fichier ou une sortie de commande.
+
+echo : Affiche du texte à l'écran ou redirige vers un fichier.
+
+man : Affiche le manuel (documentation) d'une commande.
+
+chmod : Modifie les autorisations d'accès aux fichiers.
+
+chown : Modifie le propriétaire d'un fichier ou d'un répertoire.
+
+ps : Affiche les processus en cours d'exécution.
+
+kill : Envoie un signal à un processus pour le terminer.
+
+top : Affiche des informations en temps réel sur les processus et l'utilisation du système.
+
+df : Affiche l'utilisation de l'espace disque.
+
+du : Affiche la taille des répertoires et des fichiers.
+
+tar : Archive des fichiers et répertoires.
+
+wget : Télécharge des fichiers depuis Internet en ligne de commande.
+
+curl : Permet d'envoyer ou de récupérer des données depuis un URL.
+
+ssh : Se connecte à un serveur distant en utilisant le protocole SSH.
+
+scp : Copie des fichiers entre deux machines distantes ou entre une machine locale et une machine distante via SSH.
+
+ping : Vérifie la connectivité réseau avec une adresse IP ou un nom d'hôte.
+
+ifconfig : Affiche et configure les interfaces réseau.
+
+history : Affiche l'historique des commandes précédemment exécutées.
+
+alias : Crée des alias pour des commandes.
+
+source ou . : Exécute des commandes à partir d'un fichier de script.
+
+export : Définit des variables d'environnement.
+
+jobs : Affiche les tâches en arrière-plan.
+
+bg : Relance une tâche en arrière-plan.
+
+fg : Ramène une tâche en avant-plan.
+
+nohup : Exécute une commande en arrière-plan, indépendamment de la session courante.
+
+cron : Planifie l'exécution de tâches périodiques.
+
+at : Planifie l'exécution d'une commande unique à un moment donné.
+
+shutdown : Arrête ou redémarre le système.
+
+reboot : Redémarre le système.
