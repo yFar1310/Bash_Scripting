@@ -1,4 +1,7 @@
 #! /bin/bash
+
+#This game allows you to guess a number between 0 and 10, and if you guess it correctly, you win. 
+#To play, type './guessinggame.sh' in the terminal in the correct folder.
 guess=$(($RANDOM %10))
 
 attempts=20
