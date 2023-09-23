@@ -5,7 +5,7 @@ board=(" " " " " " " " " " " " " " " " " ")
 
 # Function to display the tic-tac-toe board
 function display_board {
-     
+
     clear
     echo " ${board[0]} | ${board[1]} | ${board[2]}"
     echo "-----------"
